@@ -16,9 +16,6 @@ a) be kicked from the project
 
 b) never be able to participate in another Broken Shadow HQ project
 
-# What if I try to distribute the project, even though it's encrypted?
+# What if I try to distribute the project, even though it's encrypted, without specific permission?
 The punishments for trying to do this is above in rules. You will never encrypt the file, no matter how hard you try. I have made a custom code that ONLY I know how to decrypt, and in this code, every character is unique, and there is no pattern used for the symbols in the code. 
-
-# What after the release?
-After the release, I will unencrypt the files, and the crew members will have full access to edit the files. Even though I will have backed up the entire thing, I will 
 
