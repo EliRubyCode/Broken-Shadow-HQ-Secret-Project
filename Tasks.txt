@@ -1,0 +1,34 @@
+Here's how your submission should be formatted:
+
+*Name: Eli Rubenstein; Eli <--
+*Age: Age ≥ 13; 13; 13+ <-- Age can be formatted like any of the three examples here.
+*Email: IamusingafakeemailsoIamnotspammed@thanks.forunderstanding <---- Your email
+*Job: Project Manager <---Job applying for
+*Experience: 4 years of Java, CSS, HTML, Python, and Ruby
+(optional) Code Examples: (Even though I do have the experience, I never finish these projects. They take SOOO much time) <--- Examples of Code Projects
+*Why We Should Choose You: because I am the manager of this project. <---At least 2-3 sentences (4 at most) on why we should choose you. The example I gave is not an acceptable answer for anybody applying.
+(* = Required)
+OKAY!!! OKAY!!!! Here are the actual jobs:
+(IMPORTANT!!! For this project, a new coding language MAY have to be made... If this is to happen, the spots will open whenever the first
+phase of the project is finished)
+(EVEN MORE IMPORTANT!!! Please only submit applications for the current phase's spots. The current phase is below.)
+
+Current Phase: Phase One
+
+Phase One: Design & Crowdraising
+Font Design Team -------------- Spots currently open: 3
+Schematics Team --------------- Spots currently open: 4
+Crowdraising team ------------- Spots currently open: 2  (IMPORTANT!!! If the people who aquire these spots do a good job crowdraising,
+they will get a 4% increase on final payment. This is the most important job, because the project could be costly depending on how it
+works out.)
+
+Phase Two: Coding & Designing Hardware
+Full Code Team:
+
+Main Code Team ---------------- 10 Spots to be open
+Secondary Code Team ----------- 5 Spots to be open
+Troubleshooting Team ---------- 8 Spots to be open
+
+Hardware Design Team:
+
+*Details coming soon... Would give away too much about project details*
