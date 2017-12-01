@@ -5,6 +5,9 @@ Hey guys... It's Eli from Broken Shadow HQ... Anyways, we are working on a secre
 I need to know that I can trust who I pick, so I will keep in contact for a few days, and see your skill of coding to see if you can help with the project. All of the contributors are able to have a private copy of the finished project, and are free to work on any other Broken Shadow projects if they wish.
 
 # Rules
+First things first, if I catch ANYONE lying, or making comments that harass people, they are going to be immediately taken out of the project. Yes, lying about age counts. You can have 3 chances, for making hurtful comments/excessive cursing. 
+Writing spam (random keyboard characters) will get you kicked out of the project.
+Doing nothing will get you kicked out of the project.
 I am pretty strict about what you can do with this project.
 I have had an idea, and have had it stolen, and that really hurt.
 If at any point you distribute the project without specific permission, you will:
@@ -18,3 +21,4 @@ If this ever happens, I will get the link to download taken down, and I am alrea
 
 # What after the release?
 After the release, I will unencrypt the files, and the crew members will have full access.
+
