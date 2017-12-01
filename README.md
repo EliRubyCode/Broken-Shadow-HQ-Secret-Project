@@ -1,4 +1,5 @@
-# TOPSECRETPROJECT
+# Welcome to Broken Shadow HQ's first BIG project.
+
 Hey guys, it's Eli from Broken Shadow HQ. We are currently working on a secret project, and we need a variety of people to help. If you are interested to contribute, comment the following on the task/team page: Your name, age, and email (can be personal, work, hobby, etc. It does not matter as long as it is a real email address we can contact) You MUST be 13+ to help/contribute. Please follow the EXACT layout from the task page.
 
 # Guidelines
