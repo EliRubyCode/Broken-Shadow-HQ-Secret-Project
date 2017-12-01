@@ -1,5 +1,5 @@
 # TOPSECRETPROJECT
-Hey guys... It's Eli from Broken Shadow HQ... Anyways, we are working on a secret project, and we need a variety of people to help... None of the files will be uploaded on github for the project. If you are interested, add your name and contact info (doesn't have to be personal email) in the comments of the job you want.
+Hey guys, it's Eli from Broken Shadow HQ. We are currently working on a secret project, and we need a variety of people to help. If you are interested to contribute, comment the following on the task-page you want: Your name, age, and email (can be personal, work, hobby, etc. It does not matter as long as it is a real email address we can contact) You MUST be 13+ to help/contribute.
 
 # Guidelines
 I need to know that I can trust who I pick, so I will keep in contact for a few days, and see your skill of coding to see if you can help with the project. All of the contributors are able to have a private copy of the finished project, and are free to work on any other Broken Shadow projects if they wish.
@@ -16,9 +16,9 @@ a) be kicked from the project
 
 b) never be able to participate in another Broken Shadow HQ project
 
-# What happens when the project is distributed without permission
-If this ever happens, I will get the link to download taken down, and I am already taking precautions. The file is encrypted, so the only thing you can do is contribute. Like I said, the project is secret. However, after the project is released officially, you are free to distribute AS LONG AS you write that the project was from Broken Shadow HQ, and you give the team members credit.
+# What if I try to distribute the project, even though it's encrypted?
+The punishments for trying to do this is above in rules. You will never encrypt the file, no matter how hard you try. I have made a custom code that ONLY I know how to decrypt, and in this code, every character is unique, and there is no pattern used for the symbols in the code. 
 
 # What after the release?
-After the release, I will unencrypt the files, and the crew members will have full access.
+After the release, I will unencrypt the files, and the crew members will have full access to edit the files. Even though I will have backed up the entire thing, I will 
 
