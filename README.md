@@ -1,5 +1,5 @@
 # TOPSECRETPROJECT
-Hey guys, it's Eli from Broken Shadow HQ. We are currently working on a secret project, and we need a variety of people to help. If you are interested to contribute, comment the following on the task-page you want: Your name, age, and email (can be personal, work, hobby, etc. It does not matter as long as it is a real email address we can contact) You MUST be 13+ to help/contribute.
+Hey guys, it's Eli from Broken Shadow HQ. We are currently working on a secret project, and we need a variety of people to help. If you are interested to contribute, comment the following on the task/team page: Your name, age, and email (can be personal, work, hobby, etc. It does not matter as long as it is a real email address we can contact) You MUST be 13+ to help/contribute. Please follow the EXACT layout from the task page.
 
 # Guidelines
 I need to know that I can trust who I pick, so I will keep in contact for a few days, and see your skill of coding to see if you can help with the project. All of the contributors are able to have a private copy of the finished project, and are free to work on any other Broken Shadow projects if they wish.
